@@ -1,0 +1,4 @@
+s = float(input("Speed = "))
+t = float(input("Time = "))
+v = s/t
+print("Velocity : ",float(v),"km/h")
